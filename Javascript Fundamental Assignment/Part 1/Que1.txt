@@ -1,0 +1,11 @@
+In JavaScript, operators are used to perform various operations on data types such as numbers, strings, and booleans. They can be classified into different categories such as arithmetic, assignment, comparison, logical, bitwise, ternary, and type operators.
+
+   Arithmetic operators are used to perform mathematical operations such as addition, subtraction, multiplication, division, and modulus. For example, the + operator is used to add two numbers, and the - operator is used to subtract one number from another.
+
+   Assignment operators are used to assign values to variables. For example, the = operator is used to assign a value to a variable.
+
+   Comparison operators are used to compare two values and return a boolean value. For example, the == operator is used to check if two values are equal.
+
+They are essential because of the following reason
+
+   Operators are essential in JavaScript because they allow us to perform various operations on data types such as numbers, strings, and booleans. For example, we can use the addition operator to add two numbers, the comparison operator to compare two values, and the logical operator to combine multiple conditions.

@@ -1,0 +1,11 @@
+In JavaScript, operators are categorized based on their functionality. Here are the different categories of operators in JavaScript:
+
+1.Arithmetic Operators: These operators are used to perform arithmetic operations on numbers. Examples include `+`, `-`, `*`, `/`, `%`, and `**`. For example, `5 + 3` returns `8`.
+
+2.Assignment Operators: These operators are used to assign values to variables. Examples include `=`, `+=`, `-=`, `*=`, `/=`, and `%=`. For example, `x += 5` is equivalent to `x = x + 5`.
+
+3.Comparison Operators: These operators are used to compare two values. Examples include `==`, `!=`, `>`, `<`, `>=`, and `<=`. For example, `5 > 3` returns `true`.
+
+4.Logical Operators: These operators are used to combine multiple conditions. Examples include `&&`, `||`, and `!`. For example, `(5 > 3) && (2 < 4)` returns `true`.
+
+5.Comma Operator: This operator is used to evaluate multiple expressions and return the result of the last expression. For example, `(5 + 3, 2 + 4)` returns `6`.

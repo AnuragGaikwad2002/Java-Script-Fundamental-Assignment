@@ -1,0 +1,7 @@
+The five primitive data types in JavaScript are:
+
+    1. **Number**: Used to represent numeric values, such as `42` or `3.14`.
+    2. **String**: Used to represent textual data, such as `"Hello, world!"`.
+    3. **Boolean**: Used to represent logical values, such as `true` or `false`.
+    4. **Null**: Used to represent the intentional absence of any object value, denoted by the keyword `null`.
+    5. **Undefined**: Used to represent the absence of a defined value, denoted by the keyword `undefined`.

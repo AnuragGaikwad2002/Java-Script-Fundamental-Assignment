@@ -1,0 +1,13 @@
+The key differences between JavaScript and HTML are as follows:
+
+    - HTML is a markup language that is used to structure and give meaning to web content, while JavaScript is a programming language that is used to create interactive and dynamic web pages.
+
+    - HTML is used to define the structure of a web page, while JavaScript is used to add interactivity and dynamic behavior to a web page .
+
+    - HTML is a static language, meaning that the content cannot be changed, while JavaScript is a dynamic language that can manipulate content to create dynamic web pages.
+
+Here are some examples of situations where you would use each:
+
+    - HTML: You would use HTML to define the structure of a web page, such as defining headings, paragraphs, lists, tables, images, and links .
+
+    - JavaScript: You would use JavaScript to add interactivity and dynamic behavior to a web page, such as validating user input, creating animations, and updating content dynamically .

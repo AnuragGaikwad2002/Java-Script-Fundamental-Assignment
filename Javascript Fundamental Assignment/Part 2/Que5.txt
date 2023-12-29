@@ -1,0 +1,18 @@
+Comments in JavaScript are used to explain code and make it more readable. They can also be used to prevent execution when testing alternative code. There are two types of comments in JavaScript: single-line comments and multi-line comments.
+
+Single-line comments start with `//` and any text between `//` and the end of the line will be ignored by JavaScript. Here is an example of a single-line comment:
+
+```
+// This is a single-line comment
+```
+
+Multi-line comments start with `/*` and end with `*/`. Any text between `/*` and `*/` will be ignored by JavaScript. Here is an example of a multi-line comment:
+
+```
+/*
+This is a multi-line comment
+that spans multiple lines
+*/
+```
+
+Comments are important in JavaScript because they help other developers understand your code and can make it easier to maintain. They can also help you remember what your code does if you need to come back to it later.

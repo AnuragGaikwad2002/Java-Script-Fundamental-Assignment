@@ -1,0 +1,5 @@
+Unary Operators: These operators require one operand for operation. Examples include typeof, delete, and +. For example, typeof "hello" returns "string".
+
+Binary Operators: These operators require two operands for operation. Examples include +, -, *, /, and %. For example, 5 + 3 returns 8.
+
+Ternary Operators: This operator requires three operands for operation. The only ternary operator in JavaScript is the conditional operator. It has the following syntax: condition ? value1 : value2. For example, var x = (5 > 3) ? "yes" : "no" assigns "yes" to x.
